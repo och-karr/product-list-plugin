@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="31f2570d-1009-4712-9f69-9f7514afeb8b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../ProductListElement.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductListElement.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/views/emotion_components/frontend/_includes/product_list.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/views/emotion_components/frontend/_includes/product_list.tpl" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Bootstrap/EmotionElementInstaller.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="765">
+              <caret line="51" column="39" selection-start-line="51" selection-start-column="39" selection-end-line="51" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ComponentHandler/ProductListComponentHandler.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1995">
+              <caret line="170" selection-start-line="170" selection-end-line="170" />
+              <folding>
+                <element signature="e#986#1046#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Resources/views/emotion_components/backend/productList.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="32" column="33" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Resources/views/emotion_components/frontend/listing/product-box/product-price.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Resources/views/emotion_components/frontend/_includes/product_list.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Resources/views/emotion_components/widgets/emotion/components/emotion_product_list.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Resources/views/emotion_components/frontend/_includes/product_list_item.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Resources/views/emotion_components/frontend/listing/product-box/box-emotion.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1005">
+              <caret line="67" column="8" selection-start-line="67" selection-start-column="8" selection-end-line="67" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Subscriber/TemplateRegistration.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+              <folding>
+                <element signature="e#49#87#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>thumb</find>
+      <find>LEGACY_CONVERT_FUNCTION</find>
+      <find>shortDe</find>
+      <find>TYPE_HIGHEST_PRICE</find>
+      <find>TYPE_LOWEST_PRICE</find>
+      <find>TYPE_TOPSELLER</find>
+      <find>TYPE_RANDOM</find>
+      <find>TYPE_STATIC_VARIANT</find>
+      <find>TYPE_STATIC_VARIAN</find>
+      <find>TYPE_PRODUCT_STREAM</find>
+      <find>TYPE_STATIC_PRODUCT</find>
+      <find>$criteriaFactory</find>
+      <find>additionalTextService</find>
+      <find>RepositoryInterface</find>
+      <find>COMPONENT_NAME</find>
+      <find>StoreFrontCriteriaFactoryInterface</find>
+      <find>criteriaFactory</find>
+      <find>$context</find>
+      <find>productStreamRepository</find>
+      <find>shopwareConfig</find>
+      <find>getType</find>
+      <find>ShopContextInterface</find>
+      <find>generateCriteria</find>
+      <find>$collection</find>
+      <find>PrepareDataCollection</find>
+      <find>getBatchRequest</find>
+      <find>setCriteria</find>
+      <find>handle</find>
+      <find>produ</find>
+      <find>get</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/Bootstrap</dir>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SwagVimeoElement.php" />
+        <option value="$PROJECT_DIR$/ProductListElement.php" />
+        <option value="$PROJECT_DIR$/plugin.xml" />
+        <option value="$PROJECT_DIR$/Resources/views/emotion_components/widgets/emotion/components/emotion_vimeo.tpl" />
+        <option value="$PROJECT_DIR$/Subscriber/TemplateRegistration.php" />
+        <option value="$PROJECT_DIR$/Resources/views/emotion_components/backend/product_list.js" />
+        <option value="$PROJECT_DIR$/ComponentHandler/ComponentHandlerInterface.php" />
+        <option value="$PROJECT_DIR$/Resources/snippets/backend/emotion/product_list_element.ini" />
+        <option value="$PROJECT_DIR$/Resources/views/emotion_components/backend/productList.js" />
+        <option value="$PROJECT_DIR$/Bootstrap/EmotionElementInstaller.php" />
+        <option value="$PROJECT_DIR$/Resources/views/backend/emotion/product_list_element/view/detail/elements/product_list.js" />
+        <option value="$PROJECT_DIR$/ComponentHandler/ProductListComponentHandler.php" />
+        <option value="$PROJECT_DIR$/Resources/services.xml" />
+        <option value="$PROJECT_DIR$/Resources/views/emotion_components/frontend/_includes/product_list_items.tpl" />
+        <option value="$PROJECT_DIR$/Resources/views/emotion_components/frontend/listing/product-box/product-price.tpl" />
+        <option value="$PROJECT_DIR$/Resources/views/emotion_components/frontend/_includes/product_list_item.tpl" />
+        <option value="$PROJECT_DIR$/Resources/views/emotion_components/widgets/emotion/components/emotion_product_list.tpl" />
+        <option value="$PROJECT_DIR$/Resources/views/emotion_components/frontend/listing/product-box/box-emotion.tpl" />
+        <option value="$PROJECT_DIR$/Resources/views/emotion_components/frontend/_includes/product_list.tpl" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1280" />
+    <option name="y" value="26" />
+    <option name="width" value="1367" />
+    <option name="height" value="990" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ProductListElement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProductListElement" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProductListElement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProductListElement" type="462c0819:PsiDirectoryNode" />
+              <item name="ComponentHandler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProductListElement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProductListElement" type="462c0819:PsiDirectoryNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProductListElement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProductListElement" type="462c0819:PsiDirectoryNode" />
+              <item name="Subscriber" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProductListElement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="ProductListElement" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="ProductListElement" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Bootstrap" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="ProductListElement" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="ComponentHandler" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="ProductListElement" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="ProductListElement" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="views" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="ProductListElement" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="views" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="emotion_components" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="ProductListElement" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="views" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="emotion_components" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="frontend" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="ProductListElement" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="views" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="emotion_components" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="frontend" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="_includes" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="ProductListElement" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="views" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="emotion_components" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="widgets" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="ProductListElement" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="views" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="emotion_components" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="widgets" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="emotion" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="ProductListElement" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="views" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="emotion_components" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="widgets" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="emotion" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="components" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31f2570d-1009-4712-9f69-9f7514afeb8b" name="Default Changelist" comment="" />
+      <created>1554280852135</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554280852135</updated>
+      <workItem from="1554280853251" duration="141000" />
+      <workItem from="1554281026175" duration="98000" />
+      <workItem from="1554281217282" duration="320000" />
+      <workItem from="1554281797932" duration="1483000" />
+      <workItem from="1554296755266" duration="302000" />
+      <workItem from="1554297077542" duration="661000" />
+      <workItem from="1554298270027" duration="211000" />
+      <workItem from="1554298723291" duration="143000" />
+      <workItem from="1554298875944" duration="1950000" />
+      <workItem from="1554359083404" duration="1004000" />
+      <workItem from="1554363257736" duration="7222000" />
+      <workItem from="1554446986819" duration="7977000" />
+      <workItem from="1554704545746" duration="11168000" />
+      <workItem from="1554735986516" duration="75000" />
+      <workItem from="1554792062931" duration="18157000" />
+      <workItem from="1554877735911" duration="11452000" />
+      <workItem from="1554965770029" duration="598000" />
+      <workItem from="1555051253698" duration="2208000" />
+      <workItem from="1555309759955" duration="10597000" />
+      <workItem from="1555395229405" duration="675000" />
+      <workItem from="1555398964965" duration="371000" />
+      <workItem from="1555399600171" duration="14000" />
+      <workItem from="1555400982211" duration="73000" />
+      <workItem from="1555410098643" duration="4800000" />
+      <workItem from="1555482390204" duration="640000" />
+      <workItem from="1555569366890" duration="522000" />
+      <workItem from="1556002843067" duration="735000" />
+      <workItem from="1556087365935" duration="90000" />
+      <workItem from="1556100387544" duration="1349000" />
+      <workItem from="1556265978160" duration="60000" />
+      <workItem from="1556519331080" duration="1384000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="102190000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1280" y="26" width="1367" height="990" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25207546" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31374723" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CustomElement.php" />
+    <entry file="file://$PROJECT_DIR$/SwagVimeoElement.php" />
+    <entry file="file://$PROJECT_DIR$/Resources/snippets/backend/emotion/swag_vimeo_element.ini" />
+    <entry file="file://$PROJECT_DIR$/Resources/views/emotion_components/backend/vimeo-video.js" />
+    <entry file="file://$PROJECT_DIR$/Resources/views/emotion_components/widgets/emotion/components/emotion_vimeo.tpl" />
+    <entry file="file://$PROJECT_DIR$/Resources/views/backend/emotion/swag_vimeo_element/view/detail/elements/vimeo_video.js" />
+    <entry file="file://$PROJECT_DIR$/Resources/views/emotion_components/backend/product_list.js" />
+    <entry file="file://$PROJECT_DIR$/ComponentHandler/ComponentHandlerInterface.php" />
+    <entry file="file://$PROJECT_DIR$/ProductListElement.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="e#38#69#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/snippets/backend/emotion/product_list_element.ini">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/views/backend/emotion/product_list_element/view/detail/elements/product_list.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="47" column="37" lean-forward="true" selection-start-line="47" selection-start-column="37" selection-end-line="47" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugin.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/services.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="234" selection-start-line="18" selection-start-column="234" selection-end-line="18" selection-end-column="234" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/views/emotion_components/frontend/_includes/product_list_items.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/EmotionElementInstaller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="51" column="39" selection-start-line="51" selection-start-column="39" selection-end-line="51" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ComponentHandler/ProductListComponentHandler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1995">
+          <caret line="170" selection-start-line="170" selection-end-line="170" />
+          <folding>
+            <element signature="e#986#1046#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/views/emotion_components/backend/productList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="32" column="33" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/views/emotion_components/frontend/listing/product-box/product-price.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/views/emotion_components/widgets/emotion/components/emotion_product_list.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/views/emotion_components/frontend/_includes/product_list_item.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/views/emotion_components/frontend/listing/product-box/box-emotion.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1005">
+          <caret line="67" column="8" selection-start-line="67" selection-start-column="8" selection-end-line="67" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Subscriber/TemplateRegistration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+          <folding>
+            <element signature="e#49#87#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/views/emotion_components/frontend/_includes/product_list.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

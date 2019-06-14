@@ -1,0 +1,28 @@
+<container xmlns="http://symfony.com/schema/dic/services"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://symfony.com/schema/dic/services http://symfony.com/schema/dic/services/services-1.0.xsd">
+
+    <services>
+        <!-- Add emotion component auto loader -->
+        <service id="product_list_element.emotion_view_subscriber" class="Shopware\Components\Emotion\EmotionComponentViewSubscriber">
+            <argument>%product_list_element.plugin_dir%</argument>
+            <tag name="shopware.event_subscriber" />
+        </service> <!-- To teoretycznie niepotrzebne -->
+
+        <!-- Add TemplateRegistration subscriber-->
+        <service id="product_list_element.subscriber.templates" class="ProductListElement\Subscriber\TemplateRegistration">
+            <argument>%product_list_element.plugin_dir%</argument>
+            <tag name="shopware.event_subscriber"/>
+        </service>
+
+        <service id="product_list_element.product_list_component_handler" class="ProductListElement\ComponentHandler\ProductListComponentHandler">
+            <argument type="service" id="legacy_struct_converter" />  <!--<service id="legacy_struct_converter" class="Shopware\Components\Compatibility\LegacyStructConverter">  w pliku Shopware/Components/DependencyInjection/service.xml-->
+            <argument type="service" id="shopware_search.store_front_criteria_factory" />
+            <argument type="service" id="shopware_product_stream.repository" />
+            <argument type="service" id="config" />
+            <argument type="service" id="shopware_storefront.additional_text_service" />
+            <tag name="shopware_emotion.component_handler"/>
+        </service>
+    </services>
+
+</container>
